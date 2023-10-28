@@ -24,28 +24,28 @@ global.APIKeys = {
 }
 
 //owmner v card
-global.owner = ['6285876054652','6281351692548'] //ur owner number
-global.ownernomer = "6281351692548" //ur owner number2
-global.ownername = "KyuuSenpaii" //ur owner name
+global.owner = ['6283827251781','6283827251781'] //ur owner number
+global.ownernomer = "62838272517818" //ur owner number2
+global.ownername = "Nixyz" //ur owner name
 global.ytname = "hmm" //ur yt chanel name
 global.socialm = "jgn spam owner njg" //ur github or insta name
 global.location = "Sulawesi Selatan, Indonesia " //ur location
 
 //new
 global.botname = "Ishruka - 2K23"
-global.ownernumber = '6281351692548'
-global.ownername = '6281351692548'
-global.ownerNumber = ["6281351692548@s.whatsapp.net"]
-global.ownerweb = "https://www.youtube.com/@YTKyuuTense"
-global.websitex = "https://Bakso kontol"
-global.wagc = "https://chat.whatsapp.com/GxpCNxNd7w99fjSzHJPwGL"
+global.ownernumber = '6283827251781'
+global.ownername = '6283827251781'
+global.ownerNumber = ["6283827251781@s.whatsapp.net"]
+global.ownerweb = ""
+global.websitex = ""
+global.wagc = ""
 global.themeemoji = '🚩'
 global.wm = "Fxyz"
-global.wmbot = "Created By Kyuu"
+global.wmbot = "Created By Nixx"
 global.botscript = 'kamu nanyeak escehnya?' //script link
 global.packname = "𝐈 𝐧 𝐮 𝐦 𝐚 𝐤 𝐢 - 𝐁 𝐨 𝐭"
 global.author = "𝐈 𝐧 𝐮 𝐦 𝐚 𝐤 𝐢"
-global.creator = "6281351692548@s.whatsapp.net"
+global.creator = "6283827251781@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 global.running = "Panel Pterodactyl"
